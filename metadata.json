@@ -1,0 +1,6 @@
+{
+  "name": "EduGate Ghana",
+  "description": "Multi-tenant, mobile-first School Information & Operations Management System (SIOMS) built for Ghanaian basic and secondary schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
